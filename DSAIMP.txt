@@ -1,0 +1,11 @@
+What is a Majority Element?
+
+A majority element is:
+
+The element that appears more than half of the total array size.
+
+That's it.
+
+Formula
+
+If the array size is n, then the majority element appears more than n/2 times.
